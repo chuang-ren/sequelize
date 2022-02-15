@@ -1,5 +1,19 @@
 # Sequelize
 
+
+
+http://chenjianhang@gitlab.weyatech.cn:10080/chuangren-public/sequelize.git
+安装失败？
+
+https://github.com/chuang-ren/sequelize.git
+安装成功，慢
+
+https://github.com/chuang-ren/sequelize.git#v5
+安装成功，慢
+
+
+
+
 [![npm version](https://badgen.net/npm/v/sequelize)](https://www.npmjs.com/package/sequelize)
 [![Travis Build Status](https://badgen.net/travis/sequelize/sequelize?icon=travis)](https://travis-ci.org/sequelize/sequelize)
 [![Appveyor Build Status](https://ci.appveyor.com/api/projects/status/9l1ypgwsp5ij46m3/branch/master?svg=true)](https://ci.appveyor.com/project/sushantdhiman/sequelize/branch/master)
@@ -20,10 +34,15 @@ Sequelize follows [SEMVER](http://semver.org). Supports Node v6 and above to use
 New to Sequelize? Take a look at the [Tutorials and Guides](https://sequelize.org/master). You might also be interested in the [API Reference](https://sequelize.org/master/identifiers).
 
 ## Table of Contents
-- [Installation](#installation)
-- [Documentation](#documentation)
-- [Responsible disclosure](#responsible-disclosure)
-- [Resources](#resources)
+- [Sequelize](#sequelize)
+  - [Table of Contents](#table-of-contents)
+  - [Installation](#installation)
+  - [Documentation](#documentation)
+  - [Responsible disclosure](#responsible-disclosure)
+  - [Resources](#resources)
+    - [Tools](#tools)
+    - [Learning](#learning)
+    - [Translations](#translations)
 
 ## Installation
 
